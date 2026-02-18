@@ -1,9 +1,10 @@
----
+The King
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Waleed AASU!"
 ---
 
-Caption here
+I am waleed
 
 ![octocat-de-los-muertos](https://octodex.github.com/images/octocat-de-los-muertos.jpg)
 {: .center}
+

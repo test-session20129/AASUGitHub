@@ -1,9 +1,10 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "khalifa"
 ---
 
-Caption here
+Caption here 123
+
 
 ![codercat](https://octodex.github.com/images/codercat.jpg)
 {: .center}
